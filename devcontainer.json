@@ -1,5 +1,0 @@
-{
-  "name": "TP TR",
-  "image": "mcr.microsoft.com/devcontainers/base:ubuntu-24.04",
-  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y build-essential gdb make valgrind"
-}
